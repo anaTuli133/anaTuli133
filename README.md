@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anaTuli133
+- 👋 Hi, I’m Anamika
 - ✨ I am a graphic Designer
 - 👩🏼‍💻 I'm a undergraduate CSE Student 
 - 👀 I’m interested in software development
