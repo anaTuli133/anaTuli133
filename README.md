@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @anaTuli133
+- ✨ I am a graphic Designer
+- 👩🏼‍💻 I'm a undergraduate CSE Student 
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning php, css
+- 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on others developers
-- ⚡ Fun fact: I love to dance and play cricket
+- ⚡ Fun fact: I love to dance, sing, draw, and play cricket
 
 <!---
 anaTuli133/anaTuli133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
