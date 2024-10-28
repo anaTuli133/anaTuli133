@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anamika
 - ✨ I am a graphic Designer
-- 👩🏼‍💻 I'm a undergraduate CSE Student 
+- 👩🏼‍💻 I'm an undergraduate CSE Student 
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on others developers
