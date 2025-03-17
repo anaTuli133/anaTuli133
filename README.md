@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Anamika
-- ✨ I am a graphic Designer
 - 👩🏼‍💻 I'm an undergraduate CSE Student 
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on others developers
+- 👀 I’m interested in full-stack Web Development
+- 🌱 I’m currently learning Machine Learning, Artificial Intelligence, NLP 
+- 💞️ I’m looking to collaborate with others developers
 - ⚡ Fun fact: I love to dance, sing, draw, and play cricket
 
 <!---
