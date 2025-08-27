@@ -48,7 +48,3 @@ I'm a Final Year **CSE Student**, passionate about **Full Stack Web Development*
   <img src="https://github-readme-stats.vercel.app/api?username=AnamikaSaha&show_icons=true&theme=radical" alt="AnamikaSaha" height="165"/>
   
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaSaha&layout=compact&theme=radical&count_private=true" />
-
-</p>
