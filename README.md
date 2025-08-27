@@ -46,8 +46,9 @@ I'm a Final Year **CSE Student**, passionate about **Full Stack Web Development*
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=AnamikaSaha&show_icons=true&theme=radical" alt="AnamikaSaha" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnamikaSaha&theme=radical" alt="AnamikaSaha" height="165"/>
+  
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaSaha&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaSaha&layout=compact&theme=radical&count_private=true" />
+
 </p>
