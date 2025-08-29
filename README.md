@@ -10,7 +10,7 @@ I'm a Final Year **CSE Student**, passionate about **Full Stack Web Development*
 - ⚡  Frontend Libraries & Frameworks: **React, Bootstrap, TailwindCSS**
 - 🛠️ Backend & API: **Node.js, REST API**
 - ⚙️ Development Tools: **VS Code, NPM**
-- ✏️ Design Tools: **Figma**
+- ✏️ Design Tools: **Figma, Canva**
 - 📫 Reach me at: **anamikatuli28@gmail.com**
 
 ---
