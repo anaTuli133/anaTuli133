@@ -1,6 +1,8 @@
 # Hi 👋, I'm Anamika Saha
 
-I'm a Final Year **CSE Student**, passionate about **Full Stack Web Development** and a **Research Enthusiast**.
+I'm a  **CSE Graduate**, passionate about **Full Stack Web Development** and a **Research Enthusiast**.
+
+Currently working as a Junior Programmar at Teletalk Bangladesh Ltd.
 
 ---
 
