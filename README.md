@@ -2,12 +2,12 @@
 
 I'm a  **CSE Graduate**, passionate about **Full Stack Web Development** and a **Research Enthusiast**.
 
-Currently working as a Junior Programmar at Teletalk Bangladesh Ltd.
+Currently working as a Jr. Software Engineer at Teletalk Bangladesh Ltd.
 
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 - 💻 I work with **HTML, CSS, JavaScript, React, Python, C++, PHP, SQL**
 - ⚡  Frontend Libraries & Frameworks: **React, Bootstrap, TailwindCSS**
 - 🛠️ Backend & API: **Node.js, REST API**
