@@ -17,7 +17,6 @@
         <li>🔬 <b>Research Enthusiast</b> with a focus on <b>Machine Learning, Deep Learning, and Data Science</b>.</li>
         <li>🎨 <b>Curious Graphic Designer</b> passionate about UI/UX and visual aesthetics.</li>
         <li>📍 Based in <b>Dhaka, Bangladesh</b>.</li>
-        <li>📫 Reach me at: <a href="mailto:anamikatuli28@gmail.com">anamikatuli28@gmail.com</a></li>
       </ul>
     </td>
     <td valign="top" width="40%" align="center">
