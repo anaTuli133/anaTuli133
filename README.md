@@ -14,7 +14,7 @@
       <ul>
         <li>🚀 <b>Software Engineer</b> at <b>Teletalk Bangladesh Ltd</b>, specializing in Data Maintenance and BI.</li>
         <li>🎓 <b>CSE Graduate</b> from <b>Ahsanullah University of Science and Technology (AUST)</b>.</li>
-        <li>🔬 <b>Research Enthusiast</b> with a focus on <b>Machine Learning, Deep Learning, and Data Science</b>.</li>
+        <li>🔬 <b>Research Enthusiast</b> with a focus on <b>Machine Learning, Deep Learning and Data Science</b>.</li>
         <li>🎨 <b>Curious Graphic Designer</b> passionate about UI/UX and visual aesthetics.</li>
         <li>📍 Based in <b>Dhaka, Bangladesh</b>.</li>
       </ul>
