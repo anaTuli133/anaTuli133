@@ -6,6 +6,15 @@ Currently working as a Jr. Software Engineer at Teletalk Bangladesh Ltd.
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Anamika%20Saha&fontSize=70" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Programming Girl GIF">
+</p>
+---
+
 ### 🚀 About Me
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 💻 I work with **HTML, CSS, JavaScript, React, Python, C++, PHP, SQL**
@@ -64,8 +73,16 @@ Currently working as a Jr. Software Engineer at Teletalk Bangladesh Ltd.
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AnamikaSaha&show_icons=true&theme=radical" alt="AnamikaSaha" height="165"/>
-  
+### 📊 My GitHub Stats
+### 📊 My Real-time GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnamikaSaha&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Anamika's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaSaha&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnamikaSaha&theme=radical" alt="GitHub Streak" />
 </p>
