@@ -33,7 +33,6 @@
 </p>
 
 ---
----
 
 ## 🛠️ Skills
 
@@ -46,19 +45,24 @@
   </tr>
   <tr>
     <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JS" /></a>
       <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TS" /></a>
       <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
       <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></a>
+      <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
       <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
       <a href="https://www.canva.com/" target="_blank"><img src="https://skillicons.dev/icons?i=canva" alt="Canva" /></a>
     </td>
     <td>
       <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" /></a>
       <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
-      <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank"><img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" /></a>
+      <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
       <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+      <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /></a>
       <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+      <a href="https://www.oracle.com/database/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="45" /></a>
       <a href="https://www.tableau.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" /></a>
     </td>
     <td>
@@ -66,14 +70,13 @@
       <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
       <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
       <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+      <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
       <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
-      <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" /></a>
+      <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="Sklearn" /></a>
     </td>
   </tr>
 </table>
 </p>
-
----
 
 ---
 
