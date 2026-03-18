@@ -16,9 +16,9 @@
       <p>🔬 <b>Research Enthusiast</b> with a focus on <b>ML, DL, Blockchain and Data Science</b>.</p>
       <p>🎨 <b>Curious Graphic Designer</b> passionate about UI/UX and visual aesthetics.</p>
     </td>
-    <td valign="top" height="10%" width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="220" />
-    </td>
+<td valign="middle" width="40%" align="center">
+  <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="220" style="display: block; margin: auto; padding: 20px 0;" />
+</td>
   </tr>
 </table>
 
