@@ -15,7 +15,6 @@
       <p>🎓 <b>CSE Graduate</b> from <b>Ahsanullah University of Science and Technology (AUST)</b>.</p>
       <p>🔬 <b>Research Enthusiast</b> with a focus on <b>ML, DL, Blockchain and Data Science</b>.</p>
       <p>🎨 <b>Curious Graphic Designer</b> passionate about UI/UX and visual aesthetics.</p>
-      <p>📍 Based in <b>Dhaka, Bangladesh</b>.</p>
     </td>
     <td valign="top" width="40%" align="center">
       <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="220" />
