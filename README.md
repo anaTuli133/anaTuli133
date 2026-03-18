@@ -66,7 +66,6 @@
       <a href="https://www.tableau.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" /></a>
     </td>
     <td>
-      <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
       <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
       <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
       <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
