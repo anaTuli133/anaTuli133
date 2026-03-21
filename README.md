@@ -22,7 +22,7 @@
 </p>
 
 <div align="left">
-  <p>🚀 <b>Software Engineer</b> at <b>Teletalk Bangladesh Ltd</b>, specializing in Data Maintenance and BI.</p>
+  <p>🚀 <b>Jr. Software Engineer</b> at <b>Teletalk Bangladesh Ltd</b>, specializing in Data Maintenance and BI.</p>
   <p>🎓 <b>CSE Graduate</b> from <b>Ahsanullah University of Science and Technology (AUST)</b>.</p>
   <p>🔬 <b>Research Enthusiast</b> with a focus on <b>ML, DL, Blockchain and Data Science</b>.</p>
   <p>🎨 <b>Curious Graphic Designer</b> passionate about UI/UX and visual aesthetics.</p>
