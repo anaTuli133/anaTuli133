@@ -1,7 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Anamika Saha</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/💻-Full%20Stack%20Developer%20|%20Research%20Enthusiast-black?style=flat-square" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b794f4&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Web+Developer;Research+Enthusiast;Curious+Graphic+Designer" alt="Typing SVG" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dhaka,%20Bangladesh-📍-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/AUST-Graduate-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Innovative-Learner-chocolate?style=flat-square" />
+</p>
+
+
 
 ---
 
