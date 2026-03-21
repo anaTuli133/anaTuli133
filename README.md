@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dhaka,%20Bangladesh-📍-181717?style=flat-square" />
-  <img src="https://img.shields.io/badge/AUST-Graduate-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Innovative-Learner-chocolate?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dhaka,_Bangladesh-📍-darkgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/AUST--Graduate-🎓-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Innovative--Learner-💡-chocolate?style=flat-square" />
 </p>
 
 
