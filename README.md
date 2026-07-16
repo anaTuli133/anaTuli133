@@ -33,10 +33,13 @@
 
 ## 📊 GitHub Highlights
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anaTuli133&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=300" alt="Anamika's GitHub Stats" />
-  
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=anaTuli133&theme=tokyonight&cache_seconds=300" alt="Anamika's GitHub Streak" />
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anaTuli133&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="Anamika's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anaTuli133&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Anamika's Top Languages"/>
+
+</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaTuli133&theme=tokyonight&cache_seconds=300" />
 </p>
 
 ---
