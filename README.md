@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Anamika Saha</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b794f4&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+&+ML+Researcher;Data+Maintenance+&+Business+Intelligence+Engineer;Full+Stack+Web+Developer;Curious+Graphic+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b794f4&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%2B+ML+Researcher;Business+Intelligence+Engineer;Full+Stack+Web+Developer;Curious+Graphic+Designer" alt="Typing SVG" />
   </a>
 </p>
 
