@@ -113,7 +113,7 @@
 <tr>
 <td align="center"><b>ML/DL & Data Science</b></td>
 <td>
-<a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" /></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="35" alt="Jupyter" /></a>
 <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="35" /></a>
 <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="35" /></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="35" /></a>
