@@ -111,8 +111,9 @@
 </td>
 </tr>
 <tr>
-<td align="center"><b>ML/DL</b></td>
+<td align="center"><b>ML/DL & Data Science</b></td>
 <td>
+<a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" /></a>
 <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="35" /></a>
 <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="35" /></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="35" /></a>
@@ -122,7 +123,21 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" /></a>
 </td>
 </tr>
-
+<tr>
+<td align="center"><b>DevOps & Deployment</b></td>
+<td>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+<a href="https://www.uvicorn.org/" target="_blank"><img src="https://img.shields.io/badge/uvicorn-%23499886.svg?style=for-the-badge&logo=uvicorn&logoColor=white" height="35" alt="Uvicorn" /></a>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Version Control & API</b></td>
+<td>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+</td>
+</tr>
 </table>
 </p>
 
